@@ -1,0 +1,12 @@
+{
+  "model": "GLM-4.7-Flash",
+  "temperature": 0.9,
+  "max_tokens": 4096,
+  "top_p": 0.95,
+  "output_format": "json",
+  "variables": [
+    "WORLD_CONTEXT",
+    "CURRENT_ERA",
+    "YEAR_RANGE"
+  ]
+}
