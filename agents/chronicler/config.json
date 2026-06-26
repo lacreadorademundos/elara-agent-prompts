@@ -1,0 +1,17 @@
+{
+  "model": "GLM-4.5-Flash",
+  "temperature": 0.85,
+  "max_tokens": 4096,
+  "top_p": 0.95,
+  "output_format": "json",
+  "variables": [
+    "WORLD_FOUNDATION",
+    "PREVIOUS_ENTRIES",
+    "ACTIVE_ENTITIES",
+    "CURRENT_ERA",
+    "ERA_NAME",
+    "YEAR_START",
+    "YEAR_END",
+    "ENTRY_NUMBER"
+  ]
+}
